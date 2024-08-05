@@ -25,7 +25,7 @@ I have created a method which just do it.
   
 **Add the Expense in below formate**  
 
-       "parm.put("Name", Amoun)"  
+       "parm.put("Name", Amount)"  
   
   For Example,  
   
